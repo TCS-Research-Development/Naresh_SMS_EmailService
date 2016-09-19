@@ -1,0 +1,11 @@
+{
+  "name": "sms",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "author": "shetty",
+  "license": "ISC",
+  "description": ""
+}
